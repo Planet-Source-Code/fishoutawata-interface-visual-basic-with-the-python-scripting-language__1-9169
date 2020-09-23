@@ -1,0 +1,21 @@
+Python <--> Visual Basic Example Setup.
+
+First thank you for downloading this example.  To run this example you must.
+
+Files included in this distribution:
+
+frmMain.frm  <-- Visual Basic Form File
+PythonVB.Vbp <-- Visual Basic Project File
+PythonVB.py  <-- Python Script 
+
+
+1.  Install the Python core libraries from http://www.python.org/ftp/python/win32/py152.exe
+2.  Install the Win32all distribution from Mark Hammond at http://starship.python.net/crew/mhammond/downloads/win32all-132.exe
+3.  Add the the Python Directory to your Path.  (i.e. Path=C:\Program Files\Python)
+4.  Copy the files listed above (frmMain.frm, PythonVB.vbp, PythonVB.py) to a directory of your choice (i.e C:\PythonVB)
+5.  Register PythonVB.py with the following command line from a dos shell (i.e. C:\>python PythonVB.py) this should register the Python COM Server with the     system
+6.  Run the Visual Basic Example.
+
+
+
+  
